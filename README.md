@@ -13,4 +13,6 @@ This repository contains my solutions to the projects in the [CS50's Introductio
     - [PageRank](./pagerank/): 
     - [Heredity](./heredity/): 
   - [Optimization](https://cs50.harvard.edu/ai/2023/weeks/3/):
-    - [Crossword](./crossword/): 
+    - [Crossword](./crossword/):
+  - [Learning](https://cs50.harvard.edu/ai/2023/weeks/4/):
+    - [Crossword](./shopping/): 
